@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-TOKEN = '7075037177:AAGgEMeGA5ktc8BKpnYSt-Ex1F1au2-ItJY'
+TOKEN = 'token'
 
 bot = telebot.TeleBot(TOKEN)
 
