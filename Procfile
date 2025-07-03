@@ -1,1 +1,1 @@
-worker: python sal.py
+worker: python translatebot.py
